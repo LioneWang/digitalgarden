@@ -3,4 +3,12 @@
 ---
 
 111
-![](/img/user/Files/Brainstorm-Alone.png)
+Time：2025-01-20 18:22
+Status: #idea
+Tags: 
+
+# Home
+得瑟得瑟
+---
+# References
+![](/img/user/Image/Brainstorm-Alone.png)
