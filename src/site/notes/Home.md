@@ -1,14 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"cssclasses":["editor-full"],"tags":["gardenEntry"],"permalink":"/Home/","dgPassFrontmatter":true}
 ---
 
-111
-Time：2025-01-20 18:22
-Status: #idea
-Tags: 
-
-# Home
-得瑟得瑟
----
-# References
-![](/img/user/Image/Brainstorm-Alone.png)
+## Lione小小王の个人博客
+![](example.components)
+## 作品
+![](blog.components)
