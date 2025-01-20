@@ -3,4 +3,4 @@
 ---
 
 111
-![](/img/user/Files/Brainstorm Alone-机器学习.png)
+![](/img/user/Files/Brainstorm Alone.png)
